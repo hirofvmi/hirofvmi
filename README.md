@@ -1,6 +1,8 @@
 
 <img width="260" height="260" alt="b5oie0" src="https://github.com/user-attachments/assets/e51e20e5-259d-4209-b9eb-3be8c3c8e2e0" />
 
+im a lazy musician guy
+
 <!--
 **hirofvmi/hirofvmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
