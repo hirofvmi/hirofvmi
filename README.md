@@ -3,8 +3,8 @@
 
 
 
-
-<img width="150" height="150" alt="b5oie0" src="https://github.com/user-attachments/assets/e51e20e5-259d-4209-b9eb-3be8c3c8e2e0" />
+      
+  <img width="150" height="150" alt="b5oie0" src="https://github.com/user-attachments/assets/e51e20e5-259d-4209-b9eb-3be8c3c8e2e0" />
 
 im a lazy musician guy
 
