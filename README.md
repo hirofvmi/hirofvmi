@@ -4,7 +4,8 @@
 
 
       
-  <img width="150" height="150" alt="b5oie0" src="https://github.com/user-attachments/assets/e51e20e5-259d-4209-b9eb-3be8c3c8e2e0" />
+<img width="500" height="200" alt="wadasd" src="https://github.com/user-attachments/assets/59833e5d-31ba-4c81-b060-a01e77dd7dab" />
+
 
 im a lazy musician guy
 
