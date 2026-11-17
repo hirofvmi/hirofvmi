@@ -6,10 +6,7 @@
       
 
 
-<img width="300" height="200" alt="wadasd" src="https://github.com/user-attachments/assets/59833e5d-31ba-4c81-b060-a01e77dd7dab" />
 
-
-im a lazy musician guy
 
 <!--
 **hirofvmi/hirofvmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
