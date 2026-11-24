@@ -1,4 +1,5 @@
-<img width="348" height="280" alt="woowowo" src="https://github.com/user-attachments/assets/20194147-82e2-4f9c-b67d-79afa9ceb804" />
+   <img width="348" height="280" alt="Başlıksız39_20261124212930" src="https://github.com/user-attachments/assets/f9ecc1e9-c8ec-43ff-9f43-42d72707ade0" />
+
 
 
 
